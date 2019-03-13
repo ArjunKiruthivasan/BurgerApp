@@ -1,2 +1,0 @@
-# BurgerApp
-Created with CodeSandbox
